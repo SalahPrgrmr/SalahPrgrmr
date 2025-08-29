@@ -1,17 +1,30 @@
-[## Hi there 👋
+Q# 👋 Hi, I'm Salah Hamoud  
 
-<!--
-**SalahPrgrmr/SalahPrgrmr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Programmer & Systems Developer**  
+Passionate about building practical solutions, learning new technologies, and contributing to open-source projects.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-](https://www.linkedin.com/in/salah-hamoud?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+## 🚀 About Me  
+- 🔧 Experienced in **system development** and backend programming.  
+- 🌱 Always learning and experimenting with new **frameworks** and **SDKs**.  
+- 📂 Sharing projects that reflect both **practice** and **real-world applications**.  
+- 🤝 Open to collaboration on innovative and challenging projects.  
+
+---
+
+## 📌 Projects Highlight  
+Here are a few pinned projects you can check out on my profile:  
+- 💡 **APIs & Integrations** – experimenting with different types of APIs.  
+- 🛠 **Business Systems** – building management tools with real use-cases.  
+- 📊 **Data & Reports** – handling complex data in clean, organized ways.  
+
+---
+
+## 📫 Connect with Me  
+- 🌐 [GitHub Profile](https://github.com/SalahPrgrmr)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/salah-hamoud)  
+
+---
+
+⭐ If you like my work, consider following me or giving a star to my repositories!
