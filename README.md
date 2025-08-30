@@ -117,9 +117,11 @@ I build secure, scalable, and efficient solutions that accelerate business growt
 ---
 
 ## 📫 Let's Connect  
-- 🔗 [GitHub](https://github.com/SalahPrgrmr)  
+- 🐙 [GitHub](https://github.com/SalahPrgrmr)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/salah-hamoud)  
-- 📧 *Available via LinkedIn profile*  
+- 📄 [Indeed](https://profile.indeed.com/p/salahh-jimv8iz)  
+- 📱 [WhatsApp](https://wa.me/967734856121)  
+- 📧 [Email](mailto:prgrmr.salahv@gmail.com)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=SalahPrgrmr&color=blueviolet&style=flat)  
 
