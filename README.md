@@ -2,6 +2,9 @@
 💻 **Full-Stack Developer & Systems Architect** | Building robust, scalable solutions for over 10 years  
 
 📍 Sana'a, Yemen | 🕘 Since 2011 | 💼 Available for Freelance & Remote Opportunities  
+![profile-001](https://github.com/user-attachments/assets/05b8bec0-c7de-4ed3-af72-cfb048d72c0f)
+
+<img width="1024" height="1024" alt="Copilot_20251015_174516" src="https://github.com/user-attachments/assets/296dc6d9-a04a-421d-b7a1-37abdc2d7fdb" />
 
 ---
 
