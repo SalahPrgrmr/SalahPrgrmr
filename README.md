@@ -1,188 +1,312 @@
-<table>
-<tr>
-<td width="180" valign="top">
+<div align="center">
 
 <img src="https://github.com/user-attachments/assets/05b8bec0-c7de-4ed3-af72-cfb048d72c0f"
      alt="Salah Hamoud"
-     width="160"
-     style="border-radius:12px;" />
+     width="140"
+     style="border-radius:50%;" />
+
 # Salah Hamoud
-</td>
-<td valign="top">
 
-  
-**Full-Stack Developer & Systems Architect**
+### Full-Stack Developer · Systems Architect · Digital Engineer
 
-📍 Sana'a, Yemen  
-🕘 Since 2011  
-🌍 Remote & Freelance  
-🧠 Building real-world systems, not demo apps  
+📍 Sana'a, Yemen &nbsp;|&nbsp; 🌍 Remote & Freelance &nbsp;|&nbsp; 🕘 Since 2011
 
-[GitHub](https://github.com/SalahPrgrmr) ·
-[LinkedIn](https://www.linkedin.com/in/salah-hamoud) ·
-[WhatsApp](https://wa.me/967734856121) ·
-[Email](mailto:prgrmr.salahv@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-SalahPrgrmr-181717?style=flat-square&logo=github)](https://github.com/SalahPrgrmr)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-salah--hamoud-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/salah-hamoud)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-%2B967734856121-25D366?style=flat-square&logo=whatsapp)](https://wa.me/967734856121)
+[![Email](https://img.shields.io/badge/Email-prgrmr.salah%40gmail.com-EA4335?style=flat-square&logo=gmail)](mailto:prgrmr.salah@gmail.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=SalahPrgrmr&color=blueviolet&style=flat-square)](https://github.com/SalahPrgrmr)
 
-![Profile Views](https://komarev.com/ghpvc/?username=SalahPrgrmr&color=blueviolet&style=flat)
+> *"I build systems meant for production, pressure, and long-term use."*
 
-</td>
-</tr>
-</table>
+</div>
 
 ---
 
 ## 🧩 Professional Overview
-I design, build, and maintain **complete software systems**.
 
-My work starts before code and continues after deployment.
-I focus on clarity, stability, performance, and systems that survive real users and real data.
+I design, build, and maintain **complete software systems** — from architecture and database design to deployment and long-term maintenance.
 
-No hype.
-No shortcuts.
-Just software that works.
+My work starts before the first line of code and continues after deployment. I focus on clarity, stability, performance, and software that survives real users, real data, and real pressure.
+
+**No hype. No shortcuts. Just software that works.**
 
 ---
 
-## 🗂️ Project Management & System Planning
+## 💼 Work Experience
 
-I help turn business needs into structured, executable systems.
+### 🔹 Digital Marketing & IT Engineer
+**📅 Jan 2022 – Present &nbsp;|&nbsp; 📍 Online & Offline (Yemen, Sana'a)**
 
-**What I do:**
-- Requirements analysis
-- Business process mapping
-- System architecture planning
-- Technical feasibility studies
-- Project roadmaps & milestones
-- Technology decisions based on context
+- Website & store management, development, and programming
+- Social media account creation and management (Meta, Google, LinkedIn)
+- SEO — keyword management, search campaigns, and performance tracking
+- Marketing strategy creation and execution
+- Custom software development to streamline internal workflows
+- Technical support, systems maintenance, and supervision
+- Automated reply systems for client communications across all platforms
 
-**Methods & Concepts:**
-- System Analysis
-- UML & Flow Diagrams
-- Modular Architecture
-- Documentation-first approach
+**Stack:** Laravel, PHP, MySQL, Excel, Oracle, Google Workspace, Meta Business Suite, Cloud Tools
 
 ---
 
-## 🧠 System Design & Core Development
+### 🔹 Freelancer — Full-Stack Developer
+**📅 May 2015 – Present &nbsp;|&nbsp; 🌍 Online (Upwork, Freelance.com)**
 
-Building maintainable, scalable, and secure systems.
+Programming, development, and systems tasks across industries and platforms.
 
-**Languages & Platforms:**
-  
-![PHP](https://img.shields.io/badge/PHP-Expert-777BB4?style=flat&logo=php)
-![VB.NET](https://img.shields.io/badge/VB.NET-Expert-512BD4?style=flat&logo=dotnet)
-![Java](https://img.shields.io/badge/Java-Expert-007396?style=flat&logo=java)
-![Python](https://img.shields.io/badge/Python-Expert-3776AB?style=flat&logo=python)
-![C/C++](https://img.shields.io/badge/C%2FC%2B%2B-Expert-00599C?style=flat&logo=cplusplus)
-![Node.js](https://img.shields.io/badge/Node.js-Expert-339933?style=flat&logo=nodedotjs)
-
-**Concepts:**
-- MVC, OOP
-- RESTful APIs
-- Secure system design
-- Performance-oriented architecture
+**Stack:** Oracle APEX, MySQL, MS SQL Server, Visual Studio, VB.NET, C#.NET, C++, PHP, Laravel, Automation Tools, Web Hosting & Design, Systems Analysis
 
 ---
 
-## 🗄️ Database Design & Data Management
+### 🔹 IT Engineer
+**📅 Feb 2019 – Nov 2021 &nbsp;|&nbsp; 🏢 VAS Company (Yemen, Sana'a)**
 
-Data is not a detail. It’s the system.
-
-**Technologies:**
-
-![Oracle](https://img.shields.io/badge/Oracle-Expert-F80000?style=flat&logo=oracle)
-![MySQL](https://img.shields.io/badge/MySQL-Expert-4479A1?style=flat&logo=mysql)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Expert-4169E1?style=flat&logo=postgresql)
-![SQL Server](https://img.shields.io/badge/SQL_Server-Expert-CC2927?style=flat&logo=microsoftsqlserver)
-![MongoDB](https://img.shields.io/badge/MongoDB-Expert-47A248?style=flat&logo=mongodb)
-
-**Expertise:**
-- Database architecture & normalization
-- Query optimization
-- Stored procedures
-- High-volume transactional systems
-- Safe data migration
+- Designed and created engaging web solutions from complex requirements
+- Analyzed client-side performance and consumer experience flows
+- Built interactive, mobile-friendly web applications
+- Integrated back-end databases (Node.js, Bash, Git, automated testing)
+- Developed .NET Windows Desktop Applications with automated reporting
+- Offline/Online customer care & technical support
 
 ---
 
-## 🔄 Legacy Systems & Environment Optimization
+### 🔹 Web Developer
+**📅 Nov 2015 – Jan 2019 &nbsp;|&nbsp; 🏢 General Investment Authority (Yemen, Sana'a)**
 
-I fix systems businesses already depend on.
-
-**Focus:**
-- Modernizing legacy systems
-- Performance tuning
-- Workflow optimization
-- Reducing technical debt without downtime
-
-**Tools & Environments:**
-
-![Oracle Forms](https://img.shields.io/badge/Oracle_Forms-Expert-F80000?style=flat)
-![SQL Server](https://img.shields.io/badge/SQL_Server-Expert-CC2927?style=flat&logo=microsoftsqlserver)
-![Linux](https://img.shields.io/badge/Linux-Expert-FCC624?style=flat&logo=linux)
-![Windows](https://img.shields.io/badge/Windows-Expert-0078D6?style=flat&logo=windows)
+- Security upgrades and UI/UX redesign
+- New web application development for customer support
+- Database structure updates and new content management
+- Automated database & file backups (Daily, Weekly, Monthly)
+- Technical support and system administration
 
 ---
 
-## 🧪 Vibe Coding (Modern Stack Exposure)
+### 🔹 DBA & Programmer
+**📅 Jan 2013 – Nov 2015 &nbsp;|&nbsp; 🏢 General Investment Authority (Yemen, Sana'a)**
 
-Modern frameworks are tools, not identities.
+*Stack: Oracle PL/SQL, Oracle Developer Forms & Reports, MS SQL Server, MySQL, .NET Framework (VB, C#)*
 
-Used when they fit the system.
-Ignored when they don’t.
-
-**Technologies:**
-
-![React](https://img.shields.io/badge/React-Tool-61DAFB?style=flat&logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-Tool-000000?style=flat&logo=nextdotjs)
-![React Native](https://img.shields.io/badge/React_Native-Tool-61DAFB?style=flat&logo=react)
-![JavaScript](https://img.shields.io/badge/JavaScript-Modern-F7DF1E?style=flat&logo=javascript)
+- New system development and legacy system improvement
+- Error detection, debugging, and problem resolution
+- Daily database backups and data transfer between systems
+- Technical training and courses for employees
+- Entry facilitation for project officers
 
 ---
 
-## 🛠️ DevOps & Runtime Environment
+## 🛠️ Technical Skills
 
-Code means nothing if it can’t run reliably.
-
-**Tools & Platforms:**
-
-![Docker](https://img.shields.io/badge/Docker-Expert-2496ED?style=flat&logo=docker)
-![Git](https://img.shields.io/badge/Git-Expert-F05032?style=flat&logo=git)
-![Linux](https://img.shields.io/badge/Linux-Expert-FCC624?style=flat&logo=linux)
-![CI](https://img.shields.io/badge/CI-Friendly-Ready-2EA44F?style=flat)
+### 💻 Operating Systems
+![Windows](https://img.shields.io/badge/Windows-Expert-0078D6?style=flat-square&logo=windows)
+![Linux](https://img.shields.io/badge/Linux-Expert-FCC624?style=flat-square&logo=linux)
+![macOS](https://img.shields.io/badge/macOS-Proficient-000000?style=flat-square&logo=apple)
+![Docker](https://img.shields.io/badge/Docker-Expert-2496ED?style=flat-square&logo=docker)
+![VMware](https://img.shields.io/badge/VMware%20%2F%20VirtualBox-Used-607078?style=flat-square&logo=vmware)
 
 ---
 
-## 🧪 Selected Systems & Projects
+### 🎨 Front-End Development
+![HTML](https://img.shields.io/badge/HTML5-Expert-E34F26?style=flat-square&logo=html5)
+![CSS](https://img.shields.io/badge/CSS3-Expert-1572B6?style=flat-square&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-Expert-F7DF1E?style=flat-square&logo=javascript)
+![SASS](https://img.shields.io/badge/SASS-Proficient-CC6699?style=flat-square&logo=sass)
+![jQuery](https://img.shields.io/badge/jQuery-Expert-0769AD?style=flat-square&logo=jquery)
+![React](https://img.shields.io/badge/React-Proficient-61DAFB?style=flat-square&logo=react)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-Proficient-06B6D4?style=flat-square&logo=tailwindcss)
 
-- **Optimus ERP Suite**  
-  Accounting, Inventory, HR, POS, multi-language UI
+---
 
-- **Sales & Employee Management Systems**  
-  Oracle-based systems with auditing & permissions
+### ⚙️ Back-End Programming
+![PHP](https://img.shields.io/badge/PHP-Expert-777BB4?style=flat-square&logo=php)
+![Laravel](https://img.shields.io/badge/Laravel-Expert-FF2D20?style=flat-square&logo=laravel)
+![Python](https://img.shields.io/badge/Python-Expert-3776AB?style=flat-square&logo=python)
+![Node.js](https://img.shields.io/badge/Node.js-Expert-339933?style=flat-square&logo=nodedotjs)
+![Java](https://img.shields.io/badge/Java-Expert-007396?style=flat-square&logo=java)
+![C/C++](https://img.shields.io/badge/C%2FC%2B%2B-Expert-00599C?style=flat-square&logo=cplusplus)
+![VB.NET](https://img.shields.io/badge/VB.NET-Expert-512BD4?style=flat-square&logo=dotnet)
+![C#](https://img.shields.io/badge/C%23-Expert-239120?style=flat-square&logo=csharp)
+![Perl](https://img.shields.io/badge/Perl-Proficient-39457E?style=flat-square&logo=perl)
 
-- **Exchange & Financial Systems**  
-  Secure transactions and real-time reporting
+**Concepts:** MVC, OOP, RESTful APIs, Secure System Design, Performance-Oriented Architecture
 
-- **Gas Station Accounting System**  
-  VB.NET + SQL Server with hardware integration
+---
 
-- **Education & Medical Systems**  
-  School, library, and pharmaceutical platforms
+### 🗄️ Database Management
+![Oracle](https://img.shields.io/badge/Oracle_PL%2FSQL-Expert-F80000?style=flat-square&logo=oracle)
+![Oracle APEX](https://img.shields.io/badge/Oracle_APEX-Expert-F80000?style=flat-square&logo=oracle)
+![MySQL](https://img.shields.io/badge/MySQL-Expert-4479A1?style=flat-square&logo=mysql)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Expert-4169E1?style=flat-square&logo=postgresql)
+![SQL Server](https://img.shields.io/badge/SQL_Server-Expert-CC2927?style=flat-square&logo=microsoftsqlserver)
+![SQLite](https://img.shields.io/badge/SQLite-Expert-003B57?style=flat-square&logo=sqlite)
+![MongoDB](https://img.shields.io/badge/MongoDB-Proficient-47A248?style=flat-square&logo=mongodb)
+![MS Access](https://img.shields.io/badge/MS_Access-Proficient-A4373A?style=flat-square&logo=microsoftaccess)
+
+**Expertise:** Database Architecture & Normalization · Query Optimization · Stored Procedures · Triggers · High-Volume Transactional Systems · Safe Data Migration
+
+---
+
+### 🔄 Scripting & Automation
+![Bash](https://img.shields.io/badge/Linux_Bash-Expert-4EAA25?style=flat-square&logo=gnubash)
+![Shell](https://img.shields.io/badge/Shell_Scripts-Expert-4EAA25?style=flat-square&logo=gnubash)
+![VBScript](https://img.shields.io/badge/VBScript-Expert-512BD4?style=flat-square)
+![Batch](https://img.shields.io/badge/CMD%20%2F%20Batch-Expert-4D4D4D?style=flat-square)
+
+---
+
+### 🔧 DevOps & Tools
+![Git](https://img.shields.io/badge/Git-Expert-F05032?style=flat-square&logo=git)
+![Docker](https://img.shields.io/badge/Docker-Expert-2496ED?style=flat-square&logo=docker)
+![Apache](https://img.shields.io/badge/Apache%20%2F%20XAMPP-Expert-D22128?style=flat-square&logo=apache)
+![Linux](https://img.shields.io/badge/Linux_Server-Expert-FCC624?style=flat-square&logo=linux)
+
+---
+
+### 💼 Software & Business Tools
+Microsoft Office (All Versions) · Adobe Photoshop · ERP Systems (Local & Global) · Sage CRM · DocuWare · RBT System · IVR & SMS Monitoring & Troubleshooting · System Backup & Recovery · Optimization & Scheduling Tools · Audio & Video Editing
+
+---
+
+### 🌐 Hardware & Networking
+Hard Disk Maintenance & Recovery · Hardware Troubleshooting · Ethernet Networks (LAN, MAN) · DVR Systems · Servers & Computers Maintenance & Installation
+
+---
+
+## 🚀 Selected Projects & Systems
+
+### 🏢 Enterprise Systems & Business Applications
+
+| Project | Description | Stack |
+|---|---|---|
+| **Optimus ERP Suite** | Complete front-end modules: Accounting, Inventory, HR, POS — bilingual (AR/EN) UI | React, Tailwind CSS |
+| **Sales & Employee Management** | Advanced permissions, audit tracking, reporting | Oracle PL/SQL, Forms & Reports |
+| **Exchange Management System** | Secure transaction & client management with real-time reporting | Oracle PL/SQL |
+| **Gas Station Accounting** | Hardware integration, invoice design, accounting reports | VB.NET, SQL Server |
+
+---
+
+### 📦 Data Handling & Integration
+
+| Project | Description | Stack |
+|---|---|---|
+| **Oracle → MS SQL Migration (Sage CRM)** | Full data migration with rebuilt business logic | VB.NET, DevExpress, PL/SQL |
+| **eCommerce Platform** *(In Progress)* | Remote deployment via Linux, advanced roles, admin dashboard | Laravel, PHP, MySQL, Git |
+
+---
+
+### 🏫 Sector-Specific Systems
+
+| Project | Description | Stack |
+|---|---|---|
+| **School Management System** | Student data, grading, scheduling, fee management | Oracle Developer Suite |
+| **Library Management Website** | Catalog, borrowing system, admin control | PHP, MySQL, Apache/XAMPP |
+| **Project Management System** *(Projecto Clone)* | Dynamic dashboards, REST APIs, performance optimization | React, REST APIs |
+
+---
+
+### 🎥 Surveillance & Automation
+
+| Project | Description | Stack |
+|---|---|---|
+| **Building Surveillance & Motion Detection** | Live video feeds, movement tracking, multi-threaded processing | VB.NET, MATLAB, C/C++, OpenGL, DirectX |
+| **Auto Services & Utilities Suite** | Automated backup, error tracking, file monitoring, report scheduling | VB.NET, CMD Scripts, Email Automation |
+
+---
+
+### 🌍 Websites & Web Applications
+
+| Project | Description |
+|---|---|
+| **Medical Center – Saudi Arabia** | [Rwad Medical](https://rwadmedical.com) |
+| **VAS Company** | Telecommuting Services Platform |
+| **UNIT System** | Marketing, collections & field operations management system |
+| **Restaurants Portfolio** | [Taj Alrakhia Restaurant](https://tajalrakhia.com) |
+| **Pharma Websites** | Responsive bilingual websites for pharmaceutical companies |
+
+---
+
+### 🔁 Legacy System Rebuild
+
+| Project | Description | Stack |
+|---|---|---|
+| **System Recreation Without Source Code** | Full reverse analysis and rebuild of old desktop system | VB6, Oracle, PL/SQL |
+
+---
+
+### 🔐 Oracle APEX Applications
+
+Developed secure business apps with Oracle APEX, REST APIs, and user-authenticated dashboards using Stored Procedures, Triggers, and Web Services.
 
 ---
 
 ## 🧰 Professional Services
 
-- Full-Stack System Development
-- System Architecture & Consulting
-- Database Design & Administration
-- Legacy System Modernization
-- API Design & Integration
-- Mobile & Web Applications
-- Technical Training & Support
+```
+✅ Full-Stack Web & Desktop Development
+✅ System Architecture & Technical Consulting  
+✅ Database Design, Administration & Optimization
+✅ Legacy System Modernization & Migration
+✅ API Design & Third-Party Integration
+✅ Automation & Scripting Solutions
+✅ Digital Marketing & SEO Implementation
+✅ Technical Training & Support
+✅ Bilingual (Arabic / English) Systems & Interfaces
+```
 
 ---
 
-🧠 I build systems meant for production, pressure, and long-term use.  
-If that’s what you need, we’ll work well together.
+## 🗂️ System Planning & Analysis
+
+I help turn business requirements into structured, executable systems.
+
+- Requirements analysis & documentation
+- Business process mapping
+- System architecture planning
+- Technical feasibility studies
+- Project roadmaps & milestones
+- Technology stack decisions based on real context
+
+**Methods:** UML & Flow Diagrams · Modular Architecture · Agile · Scrum · Waterfall · Kanban · Documentation-First Approach
+
+---
+
+## 🎓 Education
+
+🎓 **Bachelor of Computer Science**  
+Taiz University, Yemen &nbsp;|&nbsp; 📅 Sep 2007 – Jun 2012
+
+---
+
+## 🌐 Languages
+
+🇸🇦 **Arabic** — Native  
+🇬🇧 **English** — Professional (Reading, Writing & Speaking)
+
+---
+
+## ⚡ General Competencies
+
+- Quick understanding & learning
+- Training & teaching
+- Creative problem solving
+- Team collaboration & leadership
+- Fast research & bilingual reporting (AR/EN)
+- Social media knowledge & digital marketing
+- Project lead & coordination
+
+---
+
+<div align="center">
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SalahPrgrmr&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/SalahPrgrmr)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SalahPrgrmr&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/SalahPrgrmr)
+
+---
+
+*Available for remote work, freelance projects, and long-term collaborations.*  
+**If you need software that lasts — let's build it together.**
+
+[![WhatsApp](https://img.shields.io/badge/Contact_via_WhatsApp-%2B967734856121-25D366?style=for-the-badge&logo=whatsapp)](https://wa.me/967734856121)
+[![Email](https://img.shields.io/badge/Send_Email-prgrmr.salah%40gmail.com-EA4335?style=for-the-badge&logo=gmail)](mailto:prgrmr.salah@gmail.com)
+
+</div>
